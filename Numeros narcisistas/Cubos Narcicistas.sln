@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cubos Narcicistas", "Cubos Narcicistas\Cubos Narcicistas.vcxproj", "{F360D63A-5DF7-429D-A32B-7869229C2A27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F360D63A-5DF7-429D-A32B-7869229C2A27}.Debug|x64.ActiveCfg = Debug|x64
+		{F360D63A-5DF7-429D-A32B-7869229C2A27}.Debug|x64.Build.0 = Debug|x64
+		{F360D63A-5DF7-429D-A32B-7869229C2A27}.Debug|x86.ActiveCfg = Debug|Win32
+		{F360D63A-5DF7-429D-A32B-7869229C2A27}.Debug|x86.Build.0 = Debug|Win32
+		{F360D63A-5DF7-429D-A32B-7869229C2A27}.Release|x64.ActiveCfg = Release|x64
+		{F360D63A-5DF7-429D-A32B-7869229C2A27}.Release|x64.Build.0 = Release|x64
+		{F360D63A-5DF7-429D-A32B-7869229C2A27}.Release|x86.ActiveCfg = Release|Win32
+		{F360D63A-5DF7-429D-A32B-7869229C2A27}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D85A27F-D34A-4DE2-A360-0740E122D9D8}
+	EndGlobalSection
+EndGlobal
